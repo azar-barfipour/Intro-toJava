@@ -2,7 +2,7 @@
 public class SwitchCase {
 
 	public static void main(String[] args) {
-		int x = 3;
+		float x = 3;
 		
 		switch(x) {
 		case 1:
